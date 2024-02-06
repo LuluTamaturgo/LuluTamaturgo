@@ -10,4 +10,4 @@ Sou formada em Gestão de Tecnologia da Informação e, sigo me aperfeiçoando, 
 
 Voçê também me encontra em:
 
-<a href="https://www.linkedin.com/in/luana-tamaturgo-653ab61aa/"><![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)></a>
+<a href="https://www.linkedin.com/in/luana-tamaturgo-653ab61aa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
